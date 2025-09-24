@@ -5,7 +5,7 @@ html file
 <head>
     <meta charset="UTF-8">
     <title>Sample Page</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <h1>Welcome to My Sample Page</h1>
